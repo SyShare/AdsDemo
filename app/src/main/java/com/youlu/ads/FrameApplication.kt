@@ -11,6 +11,6 @@ class FrameApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        SplashWrapper(this)
+//        SplashWrapper(this)
     }
 }
